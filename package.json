@@ -2,6 +2,7 @@
   "name": "mcbe-rawtext-maker",
   "version": "0.1.0-alpha",
   "description": "A RawText JSON Generator for Minecraft Bedrock Edition.",
+  "type": "module",
   "main": "dist/index.js",
   "scripts": {
     "test": "node dist/tests.js",
